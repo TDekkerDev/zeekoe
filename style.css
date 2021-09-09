@@ -26,7 +26,7 @@ body {
     border:3px solid;
 }
  
-.foto {
+.foto1 {
 
     width: 300px;
     height: 200px;
@@ -66,6 +66,25 @@ body {
 }
  
 .foto3 {
+
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:6px;
+    border:3px solid;
+
+}
+.box4 {
+    background:rgb(182, 110, 189);
+    width: 300px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:6px;
+    border:3px solid;
+}
+ 
+.foto4 {
 
     width: 300px;
     height: 200px;
